@@ -5,6 +5,7 @@ For unsupervised learning, determining the clusters (ideal number) can act as a 
 ### t-distributed Stochastic Neighbour Embedding
 ### Uniform Manifold Approximation
 ### Linear Discriminate Analysis
+### Multi-Dimensional Scaling 
 
 ## Clustering Methods
 ### K-Means Clustering
